@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the Indie Spacegame Consortium
 
 You can use the [editor on GitHub](https://github.com/Galaxy613/indieSpacegameConsortium/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
