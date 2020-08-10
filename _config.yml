@@ -1,1 +1,4 @@
 theme: jekyll-theme-hacker
+collections:
+    turn-based:
+        output: true
