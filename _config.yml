@@ -1,5 +1,5 @@
 theme: jekyll-theme-hacker
 collections:
-    turn-based:
+    turn_based:
         output: true
         theme: jekyll-theme-hacker
